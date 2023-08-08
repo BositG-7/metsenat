@@ -82,7 +82,7 @@ const useStyles = createStyles((theme) => ({
   },
 
   borderColor: {
-    borderColor: "2px solid",
+    borderColor: "3px solid",
   },
 
   linkActive: {
